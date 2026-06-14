@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Commerce API",
+  "description": "Sovereign Web3 Marketplace & Digital Trade Infrastructure for the Aurelia web ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
